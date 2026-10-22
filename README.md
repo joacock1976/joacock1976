@@ -1,6 +1,6 @@
-### **Hola, qué tal! Soy Joaquin Sanz (joacock1976) 👋**
+<h1>Hola, soy Joaquin Sanz (joacock1976) 👋</h1>
 
-<table>
+<table border-collapse=0>
   <tr>
     <td valign="top" width="60%">
       <img src="https://raw.githubusercontent.com/joacock1976/joacock1976/2b4cd32a7dd63eaa4a3aa23ddc2d56dc08769149/ascii-art(1).png" alt="ASCII Art" width="100%" />
@@ -10,11 +10,11 @@
       </a>
     </td>
     <td valign="top" width="80%">
-      <h1>Web Application Development Student | IT Systems & Networks Technician</h1>
+      <h2>Web Application Development Student | IT Systems & Networks Technician</h2>
       <p>I am currently studying Web Application Development (DAW) and hold a degree as an IT Systems and Networks Technician (SMR). 
         <br> I am passionate about building tech solutions and continuously expanding my skill set.</p>
       <p align="left">
-        <h1>Tools I Use</h1>
+        <h2>Tools I Use</h2>
         <img src="https://skillicons.dev/icons?i=windows,linux,vscode,vim" alt="My Toold" />
       </p>
       </td>
