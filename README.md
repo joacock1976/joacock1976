@@ -1,30 +1,59 @@
-# Hi, I'm Joaquin Sanz (joacock1976) 👋
-**Web Application Development Student | IT Systems & Networks Technician**
+# ¡Hola, qué tal! Soy Joaquin Sanz (joacock1976) 👋
 
-
-I am currently studying Web Application Development (DAW) and hold a degree as an IT Systems and Networks Technician (SMR). I am passionate about building tech solutions and continuously expanding my skill set.
-
+<p align="center">
+<pre><code>
+                            @@.#=  #@@@.                                      
+                             @@@@@@@@@@@@ @:.                                 
+                    -  @@@@@@@@@@@@@@@@@@%@@@@@*                              
+                 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+*=@#                          
+                   :@@@@@@@@@@@@@@@@@@@@@@@@@@@@*@@*+@                        
+                 @@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@=#@@**%                      
+             :@@@*@@@@@@@@@@@@#@@@@%@@@@@@@@@@@@@@@@%+@#@                     
+            *@+  +@@@@@@#@@@@...@.*@.@@@@@@@@@@@@@@.@@@@+@*                   
+            @@   @@@@@@=.@.%.......*:..@ @@@@@@@@%@@@-=+=#@@%                 
+            @  :@@@@@%@.%@*.............+:@@@@@@@@@@@@@:@@@%@    @@@@@@@@@@+  
+         *:+@@@@@@@@@@...............:..#@..:@@@@.#.:+%..#=-@@.@@@@@@@@@@@@@@@
+          @@@@@@@@@@-..........###@%+@:.......@@@@...#..*.+@%#@@@@@@@@@@@@@@@@
+              =@@@@@@.........-*-.%:...........@@@@..:-.:.#-@@@@@@@@@@@@@@@@@@
+              @@+@@+...*......%.................@@@@@*...+*@@%@@=@@@@@@@@@@@@#
+              @ @@%@ ...........................=@@@*.#.##@@#@@@@@@@@@@@%@@@%@
+                 @@ *#%-.........................@@@..+=@@%%@@@@@@@@@@%@@@@@@
+                .@  =%%...........................%@@@#*@@+*=@@@@@@@@@@@@=@@@@
+                   #...........................@#.*@+@@%.  @@@@@@@@@@@@@@@@@
+                   @..=.......................@*..@@-@     @@@@@@@@@@@@@@@@@
+                    +....-:.................*-.....%.      @@@@@@@@@@@@@@@@
+                     =...................-........#..         -@@@@@@@+ = @
+                       -..........................= .             @@@@@@@
+                        @........................*=-..           .@@@@@@@@
+                         %........................:-..-#         .@@@@@@@@@
+                          -*.     =...............:. =-*        @@@@@@@@@@
+                                     .....+*-   =-=  .#+ --*     @@@@@@@@@@@
+                                    :=.=  +:: .:*   :-: =: =     @@@@@@@@@@@
+                                    ...:= *: =.--: .-. +:   :     @@@@@@@@@@@
+                                    -.  - : - = ==* ==   ===   +  *   @@@@@@@@@@@
+                                  :  :. .=.- -=-*. -*   ..-:-:--- . @@@@@@@@@@
+                               . -.+-   : ==-.  =:  =+ =-- #=.-  =+..:%@@@@@@@@
+                    :       .. -: -.#  .**- =+.: =. = = -=+.-+:=-.:::. .@@@@@@
+                 * :    -% :-=-.::.- :--   -*: + :=..:. :.*#---+ - - @%. +##%@@
+               + -          -:. :. =.= *     =     :*.    -:===--:::=---     .:   =
+            =       :    +-.-:.+ =  * . =: := +=:   .+ *-:-=.-*     :   - :   
+</code></pre>
+</p>
 
 ### 🛠️ Technologies & Tools
-
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,html,css,php,js,python,windows,linux,vscode" alt="My Skills" />
 </p>
 
-
 ### 📊 GitHub Stats
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joacock1976&show_icons=true&theme=transparent&hide_border=true" alt="Joaquin's GitHub stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joacock1976&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
-
 ### 📫 Connect with me
 
-
-<a href="www.linkedin.com/in/joaquín-sanz" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+<a href="https://www.linkedin.com/in/joaquín-sanz" target="_blank">
+  <img src="
