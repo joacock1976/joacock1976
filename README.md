@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td valign="top" width="40%">
-      <img src="https://raw.githubusercontent.com/joacock1976/joacock1976/05161592bccff3056995cd0f5d9daccc45874ead/ascii-art.png" alt="ASCII Art" width="100%" />
+      <img src="https://github.com/joacock1976/joacock1976/blob/2b4cd32a7dd63eaa4a3aa23ddc2d56dc08769149/ascii-art(1).png" alt="ASCII Art" width="100%" />
     </td>
     <td valign="top" width="60%">
 <pre><code>
