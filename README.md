@@ -18,8 +18,9 @@
         <br> I am passionate about building tech solutions and continuously expanding my skill set.</p>
       <p align="left">
         <h2>Tools I Use</h2>
-        <img src="https://skillicons.dev/icons?i=windows,linux,vscode,vim" alt="My Toold" />
-      </p>
+        <img src="https://skillicons.dev/icons?i=windows,linux,vscode,vim" alt="My Tools" />
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/google-gemini.png" alt="Gemini AI" width="45" height="45" title="Gemini AI" />
+        </p>
       </td>
   </tr>
 </table>
