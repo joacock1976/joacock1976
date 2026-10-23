@@ -20,7 +20,7 @@
     <p align="left">
       <h2>Tools I Use</h2>
       <img src="https://skillicons.dev/icons?i=windows,linux,vscode,vim" alt="My Tools" />
-      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/google-gemini.png" alt="Gemini AI" width="45" height="45" title="Gemini AI" />
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/google-gemini.png" alt="Gemini AI" width="45" height="48" title="Gemini AI" />
     </p>
     <h2>Technologies</h2>
     <p align="left">
