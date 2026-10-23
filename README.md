@@ -14,9 +14,10 @@
     </td>
     
   <td valign="top" width="80%">
-    <h2>Web Application Development Student | IT Systems & Networks Technician</h2>
+    <h2>Web Development Student | IT Systems & Networks Technician</h2>
     <p>I am currently studying Web Application Development (DAW) and hold a degree as an IT Systems and Networks Technician (SMR). 
-      <br> I am passionate about building tech solutions and continuously expanding my skill set.</p>
+      <br> I am passionate about building tech solutions and continuously expanding my skill set.
+    <br> I'm currently working as a IT Support technician's </p>
     <p align="left">
       <h2>Tools I Use</h2>
       <img src="https://skillicons.dev/icons?i=windows,linux,vscode,vim" alt="My Tools" />
