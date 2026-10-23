@@ -6,7 +6,10 @@
       <img src="https://raw.githubusercontent.com/joacock1976/joacock1976/2b4cd32a7dd63eaa4a3aa23ddc2d56dc08769149/ascii-art(1).png" alt="ASCII Art" width="100%" />
        <h2> 📫 Connect with me</h2>
       <a href="https://www.linkedin.com/in/joaquín-sanz" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+      </a>
+      <a href="mailto:199230874+joacock1976@users.noreply.github.com" target="_blank">
+         <img src="https://skillicons.dev/icons?i=gmail" alt="LinkedIn" />
       </a>
     </td>
     <td valign="top" width="80%">
