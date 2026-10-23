@@ -22,7 +22,7 @@
       <img src="https://skillicons.dev/icons?i=windows,linux,vscode,vim" alt="My Tools" />
       <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/google-gemini.png" alt="Gemini AI" width="45" height="45" title="Gemini AI" />
     </p>
-    <h1>Technologies</h1>
+    <h2>Technologies</h2>
     <p align="left">
       <img src="https://skillicons.dev/icons?i=java,html,css,php,js,python" alt="My Skills" />
     </p>
