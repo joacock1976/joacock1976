@@ -12,24 +12,24 @@
          <img src="https://skillicons.dev/icons?i=gmail" alt="LinkedIn" />
       </a>
     </td>
-    <td valign="top" width="80%">
-      <h2>Web Application Development Student | IT Systems & Networks Technician</h2>
-      <p>I am currently studying Web Application Development (DAW) and hold a degree as an IT Systems and Networks Technician (SMR). 
-        <br> I am passionate about building tech solutions and continuously expanding my skill set.</p>
-      <p align="left">
-        <h2>Tools I Use</h2>
-        <img src="https://skillicons.dev/icons?i=windows,linux,vscode,vim" alt="My Tools" />
-        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/google-gemini.png" alt="Gemini AI" width="45" height="45" title="Gemini AI" />
-        </p>
-      </td>
+    
+  <td valign="top" width="80%">
+    <h2>Web Application Development Student | IT Systems & Networks Technician</h2>
+    <p>I am currently studying Web Application Development (DAW) and hold a degree as an IT Systems and Networks Technician (SMR). 
+      <br> I am passionate about building tech solutions and continuously expanding my skill set.</p>
+    <p align="left">
+      <h2>Tools I Use</h2>
+      <img src="https://skillicons.dev/icons?i=windows,linux,vscode,vim" alt="My Tools" />
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/google-gemini.png" alt="Gemini AI" width="45" height="45" title="Gemini AI" />
+    </p>
+    <h1>Technologies</h1>
+    <p align="left">
+      <img src="https://skillicons.dev/icons?i=java,html,css,php,js,python" alt="My Skills" />
+    </p>
+   </td>
   </tr>
 </table>
 
-### 🛠️ Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,html,css,php,js,python" alt="My Skills" />
-</p>
 
 ### 📊 GitHub Stats & Contributions
 
